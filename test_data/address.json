@@ -1,0 +1,9 @@
+{
+  "fullname": "John Doe",
+  "address1": "123 Main Street",
+  "address2": "Apt 4B",
+  "city": "Los Angeles",
+  "region": "California",
+  "zipcode": "90001",
+  "country": "United States"
+}
